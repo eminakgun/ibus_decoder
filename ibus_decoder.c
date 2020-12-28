@@ -1,5 +1,4 @@
 #include <string.h>
-#include <stdio.h>
 #include "ibus_decoder.h"
 
 #define IBUS_HEADER_LOW 0x20
